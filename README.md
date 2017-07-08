@@ -1,2 +1,4 @@
 # Photobiology
 Lux Et Vita
+
+Spectral data files are stored in .CSV and the ThorLabs .SPF2 format. Files in the latter format can be opened using the ThorLabs OSA program provided free of charge via https://www.thorlabs.com/software_pages/ViewSoftwarePage.cfm?Code=OSA. The .SPF2 format allows the data to be manipulated and analyzed using an array of tools as well as directly compared to other spectra stored in the same format. Our lab uses the CCS200 Spectrometer which allows for sub-2nm resolution across a range from 200nm to 1000nm. All collected data, unless otherwise specified, uses a calibrated fiber optic cable (included in kit) and the CCSA1 Cosine Corrector atachment. The testing environment and procedure is provided with the data files. Any light characterization experiments are measured at a stated integration time and a standard distance of 10mm from the emission source unless otherwise stated. Enjoy!
